@@ -1,4 +1,5 @@
-# Things I want to auto-install on Windows by default. 
+# Things I want to auto-install on Windows. 
+I play around different computers and OS, I own more computers (PC, laptops, PIs) than I need, most of them low-end and just used for learning and experimental purposes. So far, Windows has been my OS of choice for personal use because its pretty stable, supports almost all development environments that I care about, and is easy for the occasional gaming. I install/re-install Windows more frequently than I should be, and its a pain to install different s
 
 ### Chrome Browser
 https://www.snel.com/support/install-chrome-in-windows-server/
